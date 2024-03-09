@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_watchlist"
+        android:icon="@drawable/watchlist"
+        android:title="Watchlist" />
+
+    <item
+        android:id="@+id/navigation_orders"
+        android:icon="@drawable/orders"
+        android:title="Orders" />
+
+    <item
+        android:id="@+id/navigation_portfolio"
+        android:icon="@drawable/portfolio"
+        android:title="Portfolio" />
+
+    <item
+        android:id="@+id/navigation_bids"
+        android:icon="@drawable/bids"
+        android:title="Bids" />
+
+    <item
+        android:id="@+id/navigation_account"
+        android:icon="@drawable/user"
+        android:title="Account" />
+
+</menu>
